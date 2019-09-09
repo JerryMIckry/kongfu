@@ -7,6 +7,7 @@ public class Jianfa {
 			System.out.println("辟邪剑法");
 			System.out.println("辟邪剑法2");
 			System.out.println("辟邪剑法3");
+			
 	}
 
 }
