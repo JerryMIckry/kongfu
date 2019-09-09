@@ -6,6 +6,7 @@ public class Jianfa {
 		// TODO Auto-generated method stub
 			System.out.println("辟邪剑法");
 			System.out.println("辟邪剑法2");
+			System.out.println("辟邪剑法3");
 	}
 
 }
